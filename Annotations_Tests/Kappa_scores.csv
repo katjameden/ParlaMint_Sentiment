@@ -1,0 +1,11 @@
+Phase,Type,6-level,3-level
+Test1,full,0.83,0.9
+Test1,non-procedural,0.68,1.0
+Test2,full,0.68,0.71
+Test2,non-procedural,0.53,0.5
+Test3,full,0.78,0.83
+Test3,non-procedural,0.65,0.63
+Test1+2,full,0.73,0.76
+Test1+2,non-procedural,0.57,0.56
+Test1+2+3,full,0.75,0.79
+Test1+2+3,non-procedural,0.6,0.59
