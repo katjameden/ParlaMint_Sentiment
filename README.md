@@ -9,6 +9,6 @@ The testing methods will range from simplistic approaches (such as average or me
 
 **[Sentences](/Sentences)**: Sentiment annotation of the level of individual sentences
 
-**Aggregation**: Tests and development of the aggregation methods
+**[Aggregation](/Aggregation/)**: Tests and development of the aggregation methods
 
 
