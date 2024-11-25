@@ -5,10 +5,14 @@ In addition, the workflow includes experiments to aggregate sentence-level score
 The testing methods will range from simplistic approaches (such as average or mean) to more complex techniques aiming to identify the most suitable method for aggregation.
 
 ## Directories
-**[Utterances](/Utterances)**: Sentiment annotation on the level of utterances (full speeches)
+
+**[Aggregation](/Aggregation/)**: Tests and development of the aggregation methods
 
 **[Sentences](/Sentences)**: Sentiment annotation of the level of individual sentences
 
-**[Aggregation](/Aggregation/)**: Tests and development of the aggregation methods
+**[Utterances](/Utterances)**: Sentiment annotation on the level of utterances (full speeches)
+
+
+
 
 

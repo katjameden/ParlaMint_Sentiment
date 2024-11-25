@@ -17,7 +17,7 @@ Annotation test datasets:
 - Test3_sample.csv: Sample of 50 utterances for the test round 3
 
 Main annotation datasets: 
-(Excel versions of the samples include the stylized version of the sample (hidden columns, drop-down values) 
+(Excel versions of the samples include the stylized version of the sample, e.g. hidden columns, drop-down values) 
 used for the actual annotations.  
 
 - Main1_sample.csv: Sample of 200 utterances, first main annotation round
