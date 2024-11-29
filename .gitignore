@@ -2,3 +2,7 @@ ParlaSent-SI/*
 ParlaMint-SI-meta.csv
 ParlaMint-SI-text.csv
 .DS_Store
+ParlaMint-SI_sent.tsv
+ParlaMint-SI_utt.tsv
+SI_sent_development.csv
+*.xlsx
