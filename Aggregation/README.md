@@ -1,12 +1,16 @@
-# ParlaMint_Sentiment: Workflow for sentiment annotation and aggregation of parliamentary debates
+# ParlaMint_Sentiment: Workflow for sentiment annotation and
+  aggregation of parliamentary debates
 
 ## Aggregation of the sentence sentiment scores
 
-This part of the repository contains settings for developing and testing methods to aggregate the sentence-level scores to full utterance scores, as well as analysis of the results.
+This part of the repository contains settings for developing and
+testing methods to aggregate the sentence-level scores to full
+utterance scores, as well as analysis of the results.
 
-## Directories
-**[Datasets](./Datasets)**: Development and testing datasets
+## Directories **[Datasets](./Datasets)**: Development and testing
+datasets
 
 **[Figures](./Figures)**: Saved PNG images of different plots
 
-**[Notebooks](./Notebooks)**: Jupyter notebooks and other scripts used for development and testing of different aggregation methods
+**[Notebooks](./Notebooks)**: Jupyter notebooks and other scripts used
+  for development and testing of different aggregation methods
