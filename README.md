@@ -1,5 +1,4 @@
-# ParlaMint_Sentiment: Workflow for sentiment annotation and
-  aggregation of parliamentary debates
+# ParlaMint_Sentiment: Workflow for sentiment annotation
 
 The repository contains settings for manual sentiment annotation at
 the utterance and sentence level, as well as data analysis of both.
@@ -11,7 +10,7 @@ scores.  The testing methods will range from simplistic approaches
 (such as average or mean) to more complex techniques aiming to
 identify the most suitable method for aggregation.
 
-## Directories
+## Directories:
 
 **[Aggregation](/Aggregation/)**: Tests and development of the
   aggregation methods

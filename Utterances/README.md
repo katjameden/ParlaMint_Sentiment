@@ -1,5 +1,4 @@
-# ParlaMint_Sentiment: Workflow for sentiment annotation and
-  aggregation of parliamentary debates
+# ParlaMint_Sentiment: Workflow for sentiment annotation
 
 ## Sentiment annotation on the utterance level
 

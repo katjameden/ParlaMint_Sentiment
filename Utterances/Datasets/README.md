@@ -1,5 +1,3 @@
-README
-
 The folder contains datasets for the sentiment annotation/aggregation
 campaing to annotate parliamentary debates on the level of utterance
 (ParlaMint-SI).
