@@ -6,3 +6,5 @@ ParlaMint-SI_sent.tsv
 ParlaMint-SI_utt.tsv
 SI_sent_development.csv
 *.xlsx
+sent_labels.tsv
+utt_labels.tsv
