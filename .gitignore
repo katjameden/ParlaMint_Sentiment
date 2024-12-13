@@ -8,3 +8,4 @@ SI_sent_development.csv
 *.xlsx
 sent_labels.tsv
 utt_labels.tsv
+ParlaMint-SI_dataset.csv
