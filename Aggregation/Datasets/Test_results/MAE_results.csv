@@ -1,7 +1,9 @@
 Model,MAE
-Mean,1.1120379344939375
-Median,1.0882094806432725
-Count-weighted avg,1.1120379344939375
-Word-weighted avg,0.9286460126015857
-Character-weighted avg,0.9262012992458852
 Random Forest,0.4457
+Character-weighted avg,0.9262012992458852
+Word-weighted avg,0.9286460126015857
+Position-weighted avg,1.070893800232274
+Median,1.0882094806432725
+Mean,1.1120379344939375
+Count-weighted avg,1.1120379344939375
+Intensity-weighted avg,1.3930925040471676
