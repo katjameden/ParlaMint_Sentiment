@@ -1,0 +1,6 @@
+Random Forest
+0.41359999999999997
+0.546011
+0.7426782600499552
+"PearsonRResult(statistic=np.float64(0.8630413389824321), pvalue=np.float64(1.2321797515483207e-60))"
+"SignificanceResult(statistic=np.float64(0.8037119424138641), pvalue=np.float64(1.598899692245109e-46))"
