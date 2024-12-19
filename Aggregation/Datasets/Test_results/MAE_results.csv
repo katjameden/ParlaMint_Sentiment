@@ -1,9 +1,10 @@
-Model,MAE
-Random Forest,0.4457
-Character-weighted avg,0.9262012992458852
-Word-weighted avg,0.9286460126015857
-Position-weighted avg,1.070893800232274
-Median,1.0882094806432725
-Mean,1.1120379344939375
-Count-weighted avg,1.1120379344939375
-Intensity-weighted avg,1.3930925040471676
+Model,MAE,RMSE,R2,"PearsonR (r, p-value)","SpearmanR (r, p-value)"
+Mean,1.1120379344939375,1.9021852599961386,0.2123374941785573,"PearsonRResult(statistic=np.float64(0.7633335092252592), pvalue=np.float64(1.9744904247483808e-39))","SignificanceResult(statistic=np.float64(0.7456267471053154), pvalue=np.float64(9.411967068061308e-37))"
+Median,1.0882094806432725,1.977591608493121,0.18111301007541647,"PearsonRResult(statistic=np.float64(0.7230720496068651), pvalue=np.float64(1.203012880104517e-33))","SignificanceResult(statistic=np.float64(0.7268363746006063), pvalue=np.float64(3.8320932074315416e-34))"
+Count-weighted avg,1.1120379344939375,1.9021852599961389,0.21233749417855718,"PearsonRResult(statistic=np.float64(0.7633335092252592), pvalue=np.float64(1.9744904247483808e-39))","SignificanceResult(statistic=np.float64(0.7456267471053154), pvalue=np.float64(9.411967068061308e-37))"
+Word-weighted avg,0.9286460126015857,1.418737533365632,0.412524960562477,"PearsonRResult(statistic=np.float64(0.7933696963275354), pvalue=np.float64(1.4785449213888665e-44))","SignificanceResult(statistic=np.float64(0.7660826789412123), pvalue=np.float64(7.219977799668001e-40))"
+Character-weighted avg,0.9262012992458852,1.425830568420942,0.4095878556005995,"PearsonRResult(statistic=np.float64(0.7942125696066152), pvalue=np.float64(1.0323846016390647e-44))","SignificanceResult(statistic=np.float64(0.7715825497999488), pvalue=np.float64(9.251018843545318e-41))"
+Position-weighted avg,1.070893800232274,1.8466469918795025,0.23533494471806027,"PearsonRResult(statistic=np.float64(0.7627314547673101), pvalue=np.float64(2.4566643149132178e-39))","SignificanceResult(statistic=np.float64(0.7461877420869033), pvalue=np.float64(7.802763949253516e-37))"
+Intensity-weighted avg,1.3930925040471676,3.1775220864260905,-0.31575775584678545,"PearsonRResult(statistic=np.float64(0.6056668564622543), pvalue=np.float64(2.0773404471073264e-21))","SignificanceResult(statistic=np.float64(0.655852057457274), pvalue=np.float64(5.679711977382918e-26))"
+LinearSVR,0.7024771269993628,0.9463301267403178,0.6081408185425035,"PearsonRResult(statistic=np.float64(0.7886243906389387), pvalue=np.float64(1.0831952602907404e-43))","SignificanceResult(statistic=np.float64(0.7379261125034017), pvalue=np.float64(1.1757073661336731e-35))"
+Random Forest,0.4457,0.624794,0.7412834501392354,"PearsonRResult(statistic=np.float64(0.8635561863627494), pvalue=np.float64(8.717038177662653e-61))","SignificanceResult(statistic=np.float64(0.8248025974844054), pvalue=np.float64(6.387137760941815e-51))"
