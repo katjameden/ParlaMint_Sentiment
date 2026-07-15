@@ -1,4 +1,5 @@
 ParlaSent-SI/*
+ParlaMint-SI/*
 ParlaMint-SI-meta.csv
 ParlaMint-SI-text.csv
 .DS_Store
@@ -12,3 +13,5 @@ utt_labels_heuristic.tsv
 utt_labels_RF.tsv
 ParlaMint-SI_dataset.csv
 ParlaMint-SI.tsv
+.ipynb_checkpoints/
+Checkpoints/*
