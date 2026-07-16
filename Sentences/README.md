@@ -1,6 +1,6 @@
-## Sentiment annotation on the sentence level
+## Sentence-level sentiment annotation
 
-This part of the repository contains settings for manual sentiment annotation at the sentence level, as well as analysis of the results.
+This section contains annotation setup for manual sentiment annotation at the sentence level, as well as analysis of the results.
 
 **[Annotations](./Annotations/)**: Sentence-level annotation datasets for individual annotation phases, as well as full dataset.
 

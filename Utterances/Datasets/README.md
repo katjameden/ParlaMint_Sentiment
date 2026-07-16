@@ -1,13 +1,11 @@
-The folder contains datasets for the sentiment annotation/aggregation
-campaing to annotate parliamentary debates on the level of utterance
-(ParlaMint-SI).
+The folder contains datasets for the sentiment annotation/aggregation campaign to annotate parliamentary debates on the level of utterance (ParlaMint-SI).
 
 - `Annotations.csv`: The dataset with utterance-level annotations, annotator comments and the consolidated final labels. 
 Aggregation datasets:
 
-- `Sample.csv`: Sample of the full 1000 utterances to be annotated within the campaign 
-- `Sample_dev.csv`: Development split of the original sample (Sample.csv)
-- `Sample_test.csv`: Test split of the original sample (ParlaMint_sample.csv) --> Not to be touched until the test of the aggregation methods
+- `Sample.csv`: Sample of 1,000 utterances selected for annotation during the main annotation campaign. 
+- `Sample_dev.csv`: Development split derived from the original sample (`Sample.csv`).
+- `Sample_test.csv`: Test split derived from the original sample (`Sample.csv`). **Do not modify this file until the aggregation methods have been evaluated.**
 
 Annotation test datasets:
 
