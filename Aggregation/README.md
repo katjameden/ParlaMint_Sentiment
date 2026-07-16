@@ -4,8 +4,8 @@ This section contains experiments and analyses for aggregating sentence-level sc
 
 ## Directories:
 
- **[Datasets](./Datasets)**: Development and testing datasets.
+**[Datasets](./Datasets)**: Development and test datasets used for evaluating aggregation methods.
 
-**[Figures](./Figures)**: Saved PNG images of different plots.
+**[Models](./Models)**: Machine learning models trained on utterance-level sentiment annotations from Slovenian parliamentary debates.
 
-**[Notebooks](./Notebooks)**: Jupyter notebooks and other scripts used for development and testing of different aggregation methods.
+**[Notebooks](./Notebooks)**: Jupyter notebooks and supporting scripts used for developing and evaluating different aggregation methods.
